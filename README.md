@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نظرة عيونك بتشعل ناري
+> وقربك مني بيسحر أفكاري
+> تعالى في حضني نعيش الخيال
+> حبك في قلبي عدى المحال
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
