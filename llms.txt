@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-zay-ba3d/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Mosh Zay Ba3d](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
